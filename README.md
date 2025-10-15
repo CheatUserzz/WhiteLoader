@@ -25,4 +25,4 @@ Contributions are welcome! Open issues for bugs or feature requests, or submit p
 Include your preferred license (e.g., `MIT` or `Apache-2.0`) in a `LICENSE` file.
 
 ## Contact
-For technical questions or access requests, contact: `your-email@example.com`.
+For technical questions or access requests, contact: `tsunamiservicesaccount@gmail.com`.
