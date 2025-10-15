@@ -1,21 +1,28 @@
 # White Loader
 
-**White Loader** — Ferramenta para fazer download dos seus *Tsunami Products* e *White Products* de forma simples e segura.
+**White Loader** — Download all your Tsunami and White products easily and securely.
 
-## O que faz
-Baixa produtos distribuídos internamente (Tsunami / White) com foco em:
-- segurança
-- privacidade
-- facilidade de uso
-- suporte a downloads por segunda‑parte (second‑party downloads)
+## What it does
+White Loader allows you to access and download all products provided, with focus on:
+- Security
+- Privacy
+- Ease of use
+- Second-party downloads
 
-## Vantagens
-- **Segurança** — Conexões e armazenamento com camadas de proteção para reduzir riscos.
-- **Privado** — Acesso restrito e controle de permissões para manter seus ativos confidenciais.
-- **Fácil** — Interface e fluxo de download simples, pensado para rapidez e usabilidade.
-- **Second‑party download** — Permite que partes autorizadas façam download de forma controlada.
+## Advantages
+- **Secure** — All downloads are protected to keep your data safe.
+- **Private** — Restricted access ensures confidentiality.
+- **Easy** — Simple interface and workflow for quick downloads.
+- **Second-party downloads** — Authorized users can download products safely.
 
-## Como usar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/white-loader.git
+## What's included
+All available Tsunami and White products are included and ready to download. Everything is organized for easy access.
+
+## Contribution
+Contributions are welcome! Open issues for bugs or feature requests, or submit pull requests with improvements.
+
+## License
+Include your preferred license (e.g., `MIT` or `Apache-2.0`) in a `LICENSE` file.
+
+## Contact
+For technical questions or access requests, contact: `your-email@example.com`.
